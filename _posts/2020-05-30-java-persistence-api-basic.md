@@ -1,7 +1,8 @@
 ---
 layout: post
-published: true
 title: Java Persistence API 기본
+published: true
+date: '2020-05-30'
 ---
 ## JPA entity life cycle
 - new: no persistent identity, and no association with a persistence context
