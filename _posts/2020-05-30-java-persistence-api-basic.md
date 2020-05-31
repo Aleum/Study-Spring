@@ -23,3 +23,7 @@ date: '2020-05-30'
 ### transient 어노테이션
 - persistent 하지 않은 속성이나 필드를 지정함.
 
+## 참고자료
+- JSR 220: Enterprise JavaBeans TM,Version 3.0. Java Persistence API
+    - https://download.oracle.com/otndocs/jcp/ejb-3_0-fr-oth-JSpec/
+- Java Persistence with Hibernate, 2nd Edition
